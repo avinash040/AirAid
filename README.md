@@ -37,6 +37,7 @@ MVP:
 - Basic Authentication system with User data
 - chat app
 - Database design
+  - task db
   - client db
   - server db 
   - categoris db (tags)
