@@ -14,8 +14,10 @@ Servers:
   - Set the price range
   - 
   
-Clients: 
+Clients: (Lets call them Hitmen)
   - Pick a task based on the geo range ~5km, 20km etc
+  - select the task type
+  - select the deadline
   - Bid for the task 
   - Bargain for the better price
   - 
